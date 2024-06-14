@@ -1,0 +1,208 @@
+Stock name,Last candle date,Candle pattern detected,Explanation,Suggestion,Plot
+AAPL,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\AAPL_CDLBELTHOLD_2024-06-12.png
+MSFT,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\MSFT_CDLCLOSINGMARUBOZU_2024-06-12.png
+MSFT,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\MSFT_CDLLONGLINE_2024-06-12.png
+GOOGL,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\GOOGL_CDLCLOSINGMARUBOZU_2024-06-12.png
+GOOGL,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\GOOGL_CDLENGULFING_2024-06-12.png
+GOOGL,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\GOOGL_CDLLONGLINE_2024-06-12.png
+AMZN,2024-06-12,CDL3INSIDE,Three Inside Up/Down: Potential trend reversal.,Watch closely,Results\2024-06-12\AMZN_CDL3INSIDE_2024-06-12.png
+NVDA,2024-06-12,CDLHARAMI,Harami: Reversal pattern.,Watch closely,Results\2024-06-12\NVDA_CDLHARAMI_2024-06-12.png
+NVDA,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\NVDA_CDLSHORTLINE_2024-06-12.png
+TSLA,2024-06-12,CDLHIKKAKE,Hikkake: Continuation pattern.,Hold stock,Results\2024-06-12\TSLA_CDLHIKKAKE_2024-06-12.png
+TSLA,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\TSLA_CDLSHORTLINE_2024-06-12.png
+JNJ,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\JNJ_CDLCLOSINGMARUBOZU_2024-06-12.png
+JNJ,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\JNJ_CDLENGULFING_2024-06-12.png
+JNJ,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\JNJ_CDLLONGLINE_2024-06-12.png
+UNH,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\UNH_CDLCLOSINGMARUBOZU_2024-06-12.png
+UNH,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\UNH_CDLENGULFING_2024-06-12.png
+UNH,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\UNH_CDLLONGLINE_2024-06-12.png
+PG,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\PG_CDLCLOSINGMARUBOZU_2024-06-12.png
+PG,2024-06-12,CDLHIKKAKE,Hikkake: Continuation pattern.,Hold stock,Results\2024-06-12\PG_CDLHIKKAKE_2024-06-12.png
+PG,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\PG_CDLLONGLINE_2024-06-12.png
+HD,2024-06-12,CDLHAMMER,Hammer: Bullish reversal.,Buy stock,Results\2024-06-12\HD_CDLHAMMER_2024-06-12.png
+HD,2024-06-12,CDLHIKKAKE,Hikkake: Continuation pattern.,Hold stock,Results\2024-06-12\HD_CDLHIKKAKE_2024-06-12.png
+MA,2024-06-12,CDLHARAMI,Harami: Reversal pattern.,Watch closely,Results\2024-06-12\MA_CDLHARAMI_2024-06-12.png
+MA,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\MA_CDLSHORTLINE_2024-06-12.png
+DIS,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\DIS_CDLSHORTLINE_2024-06-12.png
+VZ,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\VZ_CDLBELTHOLD_2024-06-12.png
+VZ,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\VZ_CDLCLOSINGMARUBOZU_2024-06-12.png
+VZ,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\VZ_CDLLONGLINE_2024-06-12.png
+VZ,2024-06-12,CDLMARUBOZU,Marubozu: Strong continuation.,Hold stock,Results\2024-06-12\VZ_CDLMARUBOZU_2024-06-12.png
+ADBE,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\ADBE_CDLLONGLINE_2024-06-12.png
+NFLX,2024-06-12,CDLHIKKAKE,Hikkake: Continuation pattern.,Hold stock,Results\2024-06-12\NFLX_CDLHIKKAKE_2024-06-12.png
+NFLX,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\NFLX_CDLLONGLINE_2024-06-12.png
+INTC,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\INTC_CDLCLOSINGMARUBOZU_2024-06-12.png
+INTC,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\INTC_CDLENGULFING_2024-06-12.png
+INTC,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\INTC_CDLLONGLINE_2024-06-12.png
+KO,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\KO_CDLENGULFING_2024-06-12.png
+KO,2024-06-12,CDLHIKKAKE,Hikkake: Continuation pattern.,Hold stock,Results\2024-06-12\KO_CDLHIKKAKE_2024-06-12.png
+KO,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\KO_CDLLONGLINE_2024-06-12.png
+PFE,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\PFE_CDLSHORTLINE_2024-06-12.png
+MRK,2024-06-12,CDLDOJI,Doji: Indicates indecision.,Watch closely,Results\2024-06-12\MRK_CDLDOJI_2024-06-12.png
+MRK,2024-06-12,CDLHIGHWAVE,High-Wave: Indicates indecision.,Watch closely,Results\2024-06-12\MRK_CDLHIGHWAVE_2024-06-12.png
+MRK,2024-06-12,CDLLONGLEGGEDDOJI,Long Legged Doji: Indicates indecision.,Watch closely,Results\2024-06-12\MRK_CDLLONGLEGGEDDOJI_2024-06-12.png
+MRK,2024-06-12,CDLSPINNINGTOP,Spinning Top: Indicates indecision.,Watch closely,Results\2024-06-12\MRK_CDLSPINNINGTOP_2024-06-12.png
+PEP,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\PEP_CDLBELTHOLD_2024-06-12.png
+CMCSA,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\CMCSA_CDLBELTHOLD_2024-06-12.png
+CMCSA,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\CMCSA_CDLENGULFING_2024-06-12.png
+CMCSA,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\CMCSA_CDLLONGLINE_2024-06-12.png
+XOM,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\XOM_CDLBELTHOLD_2024-06-12.png
+XOM,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\XOM_CDLCLOSINGMARUBOZU_2024-06-12.png
+XOM,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\XOM_CDLLONGLINE_2024-06-12.png
+XOM,2024-06-12,CDLMARUBOZU,Marubozu: Strong continuation.,Hold stock,Results\2024-06-12\XOM_CDLMARUBOZU_2024-06-12.png
+ABT,2024-06-12,CDLTHRUSTING,Thrusting Pattern: Continuation.,Hold stock,Results\2024-06-12\ABT_CDLTHRUSTING_2024-06-12.png
+BAC,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\BAC_CDLLONGLINE_2024-06-12.png
+CVX,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\CVX_CDLCLOSINGMARUBOZU_2024-06-12.png
+CVX,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\CVX_CDLLONGLINE_2024-06-12.png
+LLY,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\LLY_CDLBELTHOLD_2024-06-12.png
+LLY,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\LLY_CDLCLOSINGMARUBOZU_2024-06-12.png
+LLY,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\LLY_CDLLONGLINE_2024-06-12.png
+LLY,2024-06-12,CDLMARUBOZU,Marubozu: Strong continuation.,Hold stock,Results\2024-06-12\LLY_CDLMARUBOZU_2024-06-12.png
+TMO,2024-06-12,CDLDOJI,Doji: Indicates indecision.,Watch closely,Results\2024-06-12\TMO_CDLDOJI_2024-06-12.png
+TMO,2024-06-12,CDLLONGLEGGEDDOJI,Long Legged Doji: Indicates indecision.,Watch closely,Results\2024-06-12\TMO_CDLLONGLEGGEDDOJI_2024-06-12.png
+TMO,2024-06-12,CDLRICKSHAWMAN,Rickshaw Man: Indicates indecision.,Watch closely,Results\2024-06-12\TMO_CDLRICKSHAWMAN_2024-06-12.png
+TMO,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\TMO_CDLSHORTLINE_2024-06-12.png
+TMO,2024-06-12,CDLSPINNINGTOP,Spinning Top: Indicates indecision.,Watch closely,Results\2024-06-12\TMO_CDLSPINNINGTOP_2024-06-12.png
+TMO,2024-06-12,CDLTHRUSTING,Thrusting Pattern: Continuation.,Hold stock,Results\2024-06-12\TMO_CDLTHRUSTING_2024-06-12.png
+MDT,2024-06-12,CDLHAMMER,Hammer: Bullish reversal.,Buy stock,Results\2024-06-12\MDT_CDLHAMMER_2024-06-12.png
+MDT,2024-06-12,CDLHARAMI,Harami: Reversal pattern.,Watch closely,Results\2024-06-12\MDT_CDLHARAMI_2024-06-12.png
+WMT,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\WMT_CDLCLOSINGMARUBOZU_2024-06-12.png
+WMT,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\WMT_CDLLONGLINE_2024-06-12.png
+MCD,2024-06-12,CDLDOJI,Doji: Indicates indecision.,Watch closely,Results\2024-06-12\MCD_CDLDOJI_2024-06-12.png
+MCD,2024-06-12,CDLDOJISTAR,Doji Star: Potential reversal.,Watch closely,Results\2024-06-12\MCD_CDLDOJISTAR_2024-06-12.png
+MCD,2024-06-12,CDLHIGHWAVE,High-Wave: Indicates indecision.,Watch closely,Results\2024-06-12\MCD_CDLHIGHWAVE_2024-06-12.png
+MCD,2024-06-12,CDLLONGLEGGEDDOJI,Long Legged Doji: Indicates indecision.,Watch closely,Results\2024-06-12\MCD_CDLLONGLEGGEDDOJI_2024-06-12.png
+MCD,2024-06-12,CDLRICKSHAWMAN,Rickshaw Man: Indicates indecision.,Watch closely,Results\2024-06-12\MCD_CDLRICKSHAWMAN_2024-06-12.png
+MCD,2024-06-12,CDLSPINNINGTOP,Spinning Top: Indicates indecision.,Watch closely,Results\2024-06-12\MCD_CDLSPINNINGTOP_2024-06-12.png
+NEE,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\NEE_CDLSHORTLINE_2024-06-12.png
+AMGN,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\AMGN_CDLCLOSINGMARUBOZU_2024-06-12.png
+AMGN,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\AMGN_CDLENGULFING_2024-06-12.png
+AMGN,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\AMGN_CDLLONGLINE_2024-06-12.png
+COST,2024-06-12,CDLHIKKAKE,Hikkake: Continuation pattern.,Hold stock,Results\2024-06-12\COST_CDLHIKKAKE_2024-06-12.png
+HON,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\HON_CDLENGULFING_2024-06-12.png
+HON,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\HON_CDLSHORTLINE_2024-06-12.png
+AVGO,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\AVGO_CDLENGULFING_2024-06-12.png
+AVGO,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\AVGO_CDLLONGLINE_2024-06-12.png
+IBM,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\IBM_CDLCLOSINGMARUBOZU_2024-06-12.png
+IBM,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\IBM_CDLLONGLINE_2024-06-12.png
+IBM,2024-06-12,CDLMORNINGSTAR,Morning Star: Bullish reversal.,Buy stock,Results\2024-06-12\IBM_CDLMORNINGSTAR_2024-06-12.png
+IBM,2024-06-12,CDLXSIDEGAP3METHODS,Upside/Downside Gap Three Methods: Continuation pattern.,Hold stock,Results\2024-06-12\IBM_CDLXSIDEGAP3METHODS_2024-06-12.png
+TXN,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\TXN_CDLCLOSINGMARUBOZU_2024-06-12.png
+QCOM,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\QCOM_CDLCLOSINGMARUBOZU_2024-06-12.png
+QCOM,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\QCOM_CDLENGULFING_2024-06-12.png
+ACN,2024-06-12,CDLDOJI,Doji: Indicates indecision.,Watch closely,Results\2024-06-12\ACN_CDLDOJI_2024-06-12.png
+ACN,2024-06-12,CDLHIGHWAVE,High-Wave: Indicates indecision.,Watch closely,Results\2024-06-12\ACN_CDLHIGHWAVE_2024-06-12.png
+ACN,2024-06-12,CDLHIKKAKE,Hikkake: Continuation pattern.,Hold stock,Results\2024-06-12\ACN_CDLHIKKAKE_2024-06-12.png
+ACN,2024-06-12,CDLLONGLEGGEDDOJI,Long Legged Doji: Indicates indecision.,Watch closely,Results\2024-06-12\ACN_CDLLONGLEGGEDDOJI_2024-06-12.png
+ACN,2024-06-12,CDLRICKSHAWMAN,Rickshaw Man: Indicates indecision.,Watch closely,Results\2024-06-12\ACN_CDLRICKSHAWMAN_2024-06-12.png
+ACN,2024-06-12,CDLSPINNINGTOP,Spinning Top: Indicates indecision.,Watch closely,Results\2024-06-12\ACN_CDLSPINNINGTOP_2024-06-12.png
+PM,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\PM_CDLCLOSINGMARUBOZU_2024-06-12.png
+PM,2024-06-12,CDLHIKKAKE,Hikkake: Continuation pattern.,Hold stock,Results\2024-06-12\PM_CDLHIKKAKE_2024-06-12.png
+PM,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\PM_CDLLONGLINE_2024-06-12.png
+UPS,2024-06-12,CDLDOJI,Doji: Indicates indecision.,Watch closely,Results\2024-06-12\UPS_CDLDOJI_2024-06-12.png
+UPS,2024-06-12,CDLHIGHWAVE,High-Wave: Indicates indecision.,Watch closely,Results\2024-06-12\UPS_CDLHIGHWAVE_2024-06-12.png
+UPS,2024-06-12,CDLLONGLEGGEDDOJI,Long Legged Doji: Indicates indecision.,Watch closely,Results\2024-06-12\UPS_CDLLONGLEGGEDDOJI_2024-06-12.png
+UPS,2024-06-12,CDLRICKSHAWMAN,Rickshaw Man: Indicates indecision.,Watch closely,Results\2024-06-12\UPS_CDLRICKSHAWMAN_2024-06-12.png
+UPS,2024-06-12,CDLSPINNINGTOP,Spinning Top: Indicates indecision.,Watch closely,Results\2024-06-12\UPS_CDLSPINNINGTOP_2024-06-12.png
+MS,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\MS_CDLSHORTLINE_2024-06-12.png
+MS,2024-06-12,CDLTHRUSTING,Thrusting Pattern: Continuation.,Hold stock,Results\2024-06-12\MS_CDLTHRUSTING_2024-06-12.png
+GS,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\GS_CDLCLOSINGMARUBOZU_2024-06-12.png
+GS,2024-06-12,CDLPIERCING,Piercing: Bullish reversal.,Buy stock,Results\2024-06-12\GS_CDLPIERCING_2024-06-12.png
+BA,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\BA_CDLSHORTLINE_2024-06-12.png
+CAT,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\CAT_CDLLONGLINE_2024-06-12.png
+MMM,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\MMM_CDLCLOSINGMARUBOZU_2024-06-12.png
+MMM,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\MMM_CDLLONGLINE_2024-06-12.png
+GILD,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\GILD_CDLBELTHOLD_2024-06-12.png
+GILD,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\GILD_CDLCLOSINGMARUBOZU_2024-06-12.png
+GILD,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\GILD_CDLLONGLINE_2024-06-12.png
+GILD,2024-06-12,CDLMARUBOZU,Marubozu: Strong continuation.,Hold stock,Results\2024-06-12\GILD_CDLMARUBOZU_2024-06-12.png
+USB,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\USB_CDLSHORTLINE_2024-06-12.png
+SCHW,2024-06-12,CDLHIKKAKE,Hikkake: Continuation pattern.,Hold stock,Results\2024-06-12\SCHW_CDLHIKKAKE_2024-06-12.png
+SCHW,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\SCHW_CDLSHORTLINE_2024-06-12.png
+AXP,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\AXP_CDLCLOSINGMARUBOZU_2024-06-12.png
+AXP,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\AXP_CDLLONGLINE_2024-06-12.png
+BMY,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\BMY_CDLSHORTLINE_2024-06-12.png
+SPGI,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\SPGI_CDLCLOSINGMARUBOZU_2024-06-12.png
+SPGI,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\SPGI_CDLLONGLINE_2024-06-12.png
+TGT,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\TGT_CDLCLOSINGMARUBOZU_2024-06-12.png
+TGT,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\TGT_CDLLONGLINE_2024-06-12.png
+LMT,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\LMT_CDLCLOSINGMARUBOZU_2024-06-12.png
+LMT,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\LMT_CDLLONGLINE_2024-06-12.png
+CB,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\CB_CDLBELTHOLD_2024-06-12.png
+CB,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\CB_CDLCLOSINGMARUBOZU_2024-06-12.png
+CB,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\CB_CDLENGULFING_2024-06-12.png
+CB,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\CB_CDLLONGLINE_2024-06-12.png
+CB,2024-06-12,CDLMARUBOZU,Marubozu: Strong continuation.,Hold stock,Results\2024-06-12\CB_CDLMARUBOZU_2024-06-12.png
+AMT,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\AMT_CDLLONGLINE_2024-06-12.png
+DUK,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\DUK_CDLBELTHOLD_2024-06-12.png
+DUK,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\DUK_CDLCLOSINGMARUBOZU_2024-06-12.png
+DUK,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\DUK_CDLLONGLINE_2024-06-12.png
+DUK,2024-06-12,CDLMARUBOZU,Marubozu: Strong continuation.,Hold stock,Results\2024-06-12\DUK_CDLMARUBOZU_2024-06-12.png
+ISRG,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\ISRG_CDLBELTHOLD_2024-06-12.png
+ISRG,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\ISRG_CDLCLOSINGMARUBOZU_2024-06-12.png
+ISRG,2024-06-12,CDLHIKKAKE,Hikkake: Continuation pattern.,Hold stock,Results\2024-06-12\ISRG_CDLHIKKAKE_2024-06-12.png
+ISRG,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\ISRG_CDLLONGLINE_2024-06-12.png
+ISRG,2024-06-12,CDLMARUBOZU,Marubozu: Strong continuation.,Hold stock,Results\2024-06-12\ISRG_CDLMARUBOZU_2024-06-12.png
+GE,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\GE_CDLBELTHOLD_2024-06-12.png
+GE,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\GE_CDLCLOSINGMARUBOZU_2024-06-12.png
+GE,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\GE_CDLENGULFING_2024-06-12.png
+GE,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\GE_CDLLONGLINE_2024-06-12.png
+GE,2024-06-12,CDLMARUBOZU,Marubozu: Strong continuation.,Hold stock,Results\2024-06-12\GE_CDLMARUBOZU_2024-06-12.png
+ZTS,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\ZTS_CDLENGULFING_2024-06-12.png
+ZTS,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\ZTS_CDLSHORTLINE_2024-06-12.png
+SBUX,2024-06-12,CDLDOJI,Doji: Indicates indecision.,Watch closely,Results\2024-06-12\SBUX_CDLDOJI_2024-06-12.png
+SBUX,2024-06-12,CDLLONGLEGGEDDOJI,Long Legged Doji: Indicates indecision.,Watch closely,Results\2024-06-12\SBUX_CDLLONGLEGGEDDOJI_2024-06-12.png
+SBUX,2024-06-12,CDLRICKSHAWMAN,Rickshaw Man: Indicates indecision.,Watch closely,Results\2024-06-12\SBUX_CDLRICKSHAWMAN_2024-06-12.png
+SBUX,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\SBUX_CDLSHORTLINE_2024-06-12.png
+SBUX,2024-06-12,CDLSPINNINGTOP,Spinning Top: Indicates indecision.,Watch closely,Results\2024-06-12\SBUX_CDLSPINNINGTOP_2024-06-12.png
+ADP,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\ADP_CDLENGULFING_2024-06-12.png
+PLD,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\PLD_CDLSHORTLINE_2024-06-12.png
+MDLZ,2024-06-12,CDLDOJI,Doji: Indicates indecision.,Watch closely,Results\2024-06-12\MDLZ_CDLDOJI_2024-06-12.png
+MDLZ,2024-06-12,CDLHIGHWAVE,High-Wave: Indicates indecision.,Watch closely,Results\2024-06-12\MDLZ_CDLHIGHWAVE_2024-06-12.png
+MDLZ,2024-06-12,CDLLONGLEGGEDDOJI,Long Legged Doji: Indicates indecision.,Watch closely,Results\2024-06-12\MDLZ_CDLLONGLEGGEDDOJI_2024-06-12.png
+MDLZ,2024-06-12,CDLRICKSHAWMAN,Rickshaw Man: Indicates indecision.,Watch closely,Results\2024-06-12\MDLZ_CDLRICKSHAWMAN_2024-06-12.png
+MDLZ,2024-06-12,CDLSPINNINGTOP,Spinning Top: Indicates indecision.,Watch closely,Results\2024-06-12\MDLZ_CDLSPINNINGTOP_2024-06-12.png
+SYK,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\SYK_CDLLONGLINE_2024-06-12.png
+MO,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\MO_CDLSHORTLINE_2024-06-12.png
+BKNG,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\BKNG_CDLSHORTLINE_2024-06-12.png
+DE,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\DE_CDLCLOSINGMARUBOZU_2024-06-12.png
+DE,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\DE_CDLLONGLINE_2024-06-12.png
+BDX,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\BDX_CDLCLOSINGMARUBOZU_2024-06-12.png
+BDX,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\BDX_CDLLONGLINE_2024-06-12.png
+CVS,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\CVS_CDLLONGLINE_2024-06-12.png
+C,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\C_CDLLONGLINE_2024-06-12.png
+C,2024-06-12,CDLTHRUSTING,Thrusting Pattern: Continuation.,Hold stock,Results\2024-06-12\C_CDLTHRUSTING_2024-06-12.png
+CME,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\CME_CDLSHORTLINE_2024-06-12.png
+PNC,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\PNC_CDLBELTHOLD_2024-06-12.png
+PNC,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\PNC_CDLCLOSINGMARUBOZU_2024-06-12.png
+PNC,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\PNC_CDLLONGLINE_2024-06-12.png
+PNC,2024-06-12,CDLMARUBOZU,Marubozu: Strong continuation.,Hold stock,Results\2024-06-12\PNC_CDLMARUBOZU_2024-06-12.png
+TJX,2024-06-12,CDLSPINNINGTOP,Spinning Top: Indicates indecision.,Watch closely,Results\2024-06-12\TJX_CDLSPINNINGTOP_2024-06-12.png
+CCI,2024-06-12,CDLHAMMER,Hammer: Bullish reversal.,Buy stock,Results\2024-06-12\CCI_CDLHAMMER_2024-06-12.png
+NSC,2024-06-12,CDLHAMMER,Hammer: Bullish reversal.,Buy stock,Results\2024-06-12\NSC_CDLHAMMER_2024-06-12.png
+NSC,2024-06-12,CDLHIKKAKE,Hikkake: Continuation pattern.,Hold stock,Results\2024-06-12\NSC_CDLHIKKAKE_2024-06-12.png
+SO,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\SO_CDLBELTHOLD_2024-06-12.png
+SO,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\SO_CDLCLOSINGMARUBOZU_2024-06-12.png
+SO,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\SO_CDLLONGLINE_2024-06-12.png
+SO,2024-06-12,CDLMARUBOZU,Marubozu: Strong continuation.,Hold stock,Results\2024-06-12\SO_CDLMARUBOZU_2024-06-12.png
+BIIB,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\BIIB_CDLCLOSINGMARUBOZU_2024-06-12.png
+BIIB,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\BIIB_CDLENGULFING_2024-06-12.png
+BIIB,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\BIIB_CDLLONGLINE_2024-06-12.png
+VRTX,2024-06-12,CDLBELTHOLD,Belt-hold: Trend reversal pattern.,Watch closely,Results\2024-06-12\VRTX_CDLBELTHOLD_2024-06-12.png
+VRTX,2024-06-12,CDLCLOSINGMARUBOZU,Closing Marubozu: Continuation pattern.,Hold stock,Results\2024-06-12\VRTX_CDLCLOSINGMARUBOZU_2024-06-12.png
+VRTX,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\VRTX_CDLENGULFING_2024-06-12.png
+VRTX,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\VRTX_CDLLONGLINE_2024-06-12.png
+VRTX,2024-06-12,CDLMARUBOZU,Marubozu: Strong continuation.,Hold stock,Results\2024-06-12\VRTX_CDLMARUBOZU_2024-06-12.png
+MMC,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\MMC_CDLSHORTLINE_2024-06-12.png
+FIS,2024-06-12,CDLHAMMER,Hammer: Bullish reversal.,Buy stock,Results\2024-06-12\FIS_CDLHAMMER_2024-06-12.png
+FIS,2024-06-12,CDLHARAMI,Harami: Reversal pattern.,Watch closely,Results\2024-06-12\FIS_CDLHARAMI_2024-06-12.png
+HUM,2024-06-12,CDLENGULFING,Engulfing: Strong reversal pattern.,Watch closely,Results\2024-06-12\HUM_CDLENGULFING_2024-06-12.png
+HUM,2024-06-12,CDLLONGLINE,Long Line Candle: Indicates strong sentiment.,Watch closely,Results\2024-06-12\HUM_CDLLONGLINE_2024-06-12.png
+ICE,2024-06-12,CDLSHORTLINE,Short Line Candle: Indicates weak sentiment.,Watch closely,Results\2024-06-12\ICE_CDLSHORTLINE_2024-06-12.png
+ICE,2024-06-12,CDLSPINNINGTOP,Spinning Top: Indicates indecision.,Watch closely,Results\2024-06-12\ICE_CDLSPINNINGTOP_2024-06-12.png
+EL,2024-06-12,CDLDOJI,Doji: Indicates indecision.,Watch closely,Results\2024-06-12\EL_CDLDOJI_2024-06-12.png
+EL,2024-06-12,CDLHIGHWAVE,High-Wave: Indicates indecision.,Watch closely,Results\2024-06-12\EL_CDLHIGHWAVE_2024-06-12.png
+EL,2024-06-12,CDLLONGLEGGEDDOJI,Long Legged Doji: Indicates indecision.,Watch closely,Results\2024-06-12\EL_CDLLONGLEGGEDDOJI_2024-06-12.png
+EL,2024-06-12,CDLRICKSHAWMAN,Rickshaw Man: Indicates indecision.,Watch closely,Results\2024-06-12\EL_CDLRICKSHAWMAN_2024-06-12.png
+EL,2024-06-12,CDLSPINNINGTOP,Spinning Top: Indicates indecision.,Watch closely,Results\2024-06-12\EL_CDLSPINNINGTOP_2024-06-12.png
+ORCL,2024-06-12,CDLHANGINGMAN,Hanging Man: Bearish reversal.,Sell stock,Results\2024-06-12\ORCL_CDLHANGINGMAN_2024-06-12.png
